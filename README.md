@@ -1,4 +1,6 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
+## NAME : PRIYADHARSHINI M
+## REF.NO: 25017828
 
 **AIM:**
 
@@ -25,6 +27,10 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
+![verification of maximum power transfer theorem_page-0001](https://github.com/user-attachments/assets/8b70cd0a-c22e-4bae-a714-0db48f0b8917)
+![verification of maximum power transfer theorem_page-0002](https://github.com/user-attachments/assets/914bd74b-f6fe-4391-a9f9-06ea5b820292)
+![verification of maximum power transfer theorem_page-0003](https://github.com/user-attachments/assets/9d5f7564-1a83-491d-b31b-7b335a81d7c4)
+![verification of maximum power transfer theorem_page-0004](https://github.com/user-attachments/assets/c6a0d71a-dfef-412e-b4c6-b1a4f761b34e)
 
 
 **MODEL GRAPH:**
